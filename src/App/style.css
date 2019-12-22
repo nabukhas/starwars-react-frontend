@@ -1,0 +1,46 @@
+html, body {
+	height: 100%;
+	font-family: 'Roboto', sans-serif;
+	background-color:#000;
+}
+
+.black-back {
+	background-color: #000;
+	border-radius: 0;
+	padding: 0;
+	height:auto
+}
+.center {
+	display: block;
+	margin: auto;
+	text-align:center;
+}
+.data{
+	color:#fff;
+	margin-top:20px;
+}
+
+.span-spacing{
+	margin-top: 20px;
+}
+
+.margin{
+	margin-top:20px;
+}
+.image-size{
+	width:60%;
+}
+
+p{
+	color:yellow
+}
+.hidden-data {
+	display: none;
+}
+
+#head{
+	height:10px;
+}
+#content {
+	height: 100%;
+}
